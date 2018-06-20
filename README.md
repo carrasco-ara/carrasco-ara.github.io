@@ -16,6 +16,7 @@ Main Features:
 - LIGHTBOX for Featured Work section (Click on Image to display effect of Lightbox with image)
 - Media queries to add break point
 
-Resources used: https://www.w3schools.com (bootstrap / Hero Image / Lightbox / HTML5) 
-                http://getbootstrap.com/  (bootstrap)
-                http://udacity.github.io/frontend-nanodegree-styleguide/
+Resources used: 
+-https://www.w3schools.com (bootstrap / Hero Image / Lightbox / HTML5) 
+-http://getbootstrap.com/  (bootstrap)
+-http://udacity.github.io/frontend-nanodegree-styleguide/
