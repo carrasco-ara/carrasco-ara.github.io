@@ -11,6 +11,6 @@ View my Portfolio: carrasco-ara.github.io
 
 Main Features:
 - Bootstrap v3 CSS Framework for Responsive Design
-- Hero Image - large image with text
-- LIGHTBOX for image display
+- Hero Image - large image with text (Responsive to device)
+- LIGHTBOX for Featured Work section (Click on Image to display effect of Lightbox with image)
 - Media queries to add break point
