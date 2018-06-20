@@ -17,6 +17,6 @@ Main Features:
 - Media queries to add break point
 
 Resources used: 
--https://www.w3schools.com (bootstrap / Hero Image / Lightbox / HTML5) 
--http://getbootstrap.com/  (bootstrap)
--http://udacity.github.io/frontend-nanodegree-styleguide/
+- https://www.w3schools.com (bootstrap / Hero Image / Lightbox / HTML5) 
+- http://getbootstrap.com/  (bootstrap)
+- http://udacity.github.io/frontend-nanodegree-styleguide/
