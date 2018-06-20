@@ -21,3 +21,4 @@ Resources used:
 - https://www.w3schools.com (bootstrap / Hero Image / Lightbox / HTML5) 
 - http://getbootstrap.com/  (bootstrap)
 - http://udacity.github.io/frontend-nanodegree-styleguide/
+- Glory Photography - Images by Tiffany Wells (Photographer)
