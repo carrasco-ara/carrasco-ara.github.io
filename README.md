@@ -8,7 +8,7 @@ Bootstrap is built on responsive 12-column grids, layouts and components and can
 I like that it has base styling for most HTML elements and has extensive list of components, bundled Javascript plugins and good documentation.
 
 
-To view my Portfolio click [carrasco-ara.github.io]
+Click <a href="https://carrasco-ara.github.io/">Porfolio</a> to View my project.
 
 Main Features:
 - Bootstrap v3 CSS Framework for Responsive Design
