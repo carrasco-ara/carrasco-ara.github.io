@@ -1,0 +1,166 @@
+body {
+    font-size: 16px; 
+    font-family: "Roboto Slab", serif; 
+    line-height: 1.2em;
+}
+
+body, 
+html {
+    height: 100%;
+    margin: 0;
+}
+
+#udacity-logo {
+    width: 50px;
+    margin-top: 10px;
+    height: 50px;
+}
+
+hr {
+    border-top: 4px solid #7d97ad;
+    opacity: 0.7;
+}
+
+hr.small {
+    max-width: 100px;
+}
+
+/** Hero Image - large image with text **/
+.hero-image {
+    background-image: url(../img/Portfolio-Image-bg.jpg);
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-text {
+    letter-spacing: 1px;
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+
+.hero-text button {
+    background-color: transparent;
+    border: 1px solid #02b3e4;
+    border-radius: 20px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    outline: 0;
+    padding: 6px 12px 6px 12px;
+    text-align: center;
+}
+
+.hero-text button:hover {
+    background-color: #555;
+    opacity: 0.7;
+}
+
+/** Portfolio **/
+.portfolio {
+    padding: 10px 0;
+}
+
+#portfolio h2 {
+    color: #7d97ad;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.img-portfolio {
+    cursor: pointer;
+    margin: 0 auto;
+}
+
+.img-hover:hover {
+    opacity: 0.7;
+}
+
+#portfolio .portfolio-item h3.portfolio-caption {
+    color: #2d3c49;
+    text-uppercase;
+}
+
+#portfolio .portfolio-item p {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+}
+ 
+/** Lightbox hide/dispaly images **/
+.lightbox {
+	/** Default lightbox to hidden */
+	display: none;
+	/** Position and style */
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+}
+
+.lightbox img {
+	/** Pad the lightbox image */
+	max-width: 90%;
+	max-height: 80%;
+	margin-top: 2%;
+}
+
+.lightbox:target {
+	/** Remove default browser outline */
+	outline: none;
+	/** Unhide lightbox **/
+	display: block;
+}
+
+/** Footer **/
+.copyright {
+    color: #7d97ad;
+}
+
+/** media query - break points **/
+@media screen and (min-width: 992px) {
+    #udacity-logo {
+        width: 70px;
+        margin-top: 20px;
+        height: 70px;     
+    }
+    .hero-text {
+        left: 60%;
+    }    
+    .section-heading {
+        text-align: left;
+    }    
+}
+
+@media screen and (max-width: 991px) {
+    .udacity-logo,
+    .header-info {
+        text-align: center;
+    } 
+    h1 { 
+        font-size: 24px;
+    } 
+    h2 {
+        font-size: 22px;
+    }    
+    h3 {
+        font-size: 18px;
+    }    
+    hr {
+        border-top: 3px solid #7d97ad;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+}
