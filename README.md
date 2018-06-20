@@ -1,5 +1,6 @@
 # carrasco-ara.github.io
-Araceli Carrasco - Build a Portfolio Site 
+##Build a Portfolio Site 
+*Araceli Carrasco*
 
 Portfolio is a simple responsive page using Bootstrap v3 CSS Framework for Responsive Design.
 Among all the available CSS frameworks out there, Bootstrap is my favorite.
@@ -7,7 +8,7 @@ Bootstrap is built on responsive 12-column grids, layouts and components and can
 I like that it has base styling for most HTML elements and has extensive list of components, bundled Javascript plugins and good documentation.
 
 
-View my Portfolio: carrasco-ara.github.io 
+To view my Portfolio click [Portfolio](carrasco-ara.github.io) link.
 
 Main Features:
 - Bootstrap v3 CSS Framework for Responsive Design
